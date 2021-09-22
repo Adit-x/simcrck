@@ -22,7 +22,7 @@ except ImportError:
 ua = ('Mozilla/5.0 (Linux; Android 5.0; Lenovo A1000 Build/S100; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/MESSENGER;FBAV/110.0.0.14.69;]')
 ### Logo ###
 logo = 
-print("""\1b[1;97m _____ __ _____ __ 
+("""\1b[1;97m _____ __ _____ __ 
 \1b[1;97m / __(_)_ _ ___ /
  /__ ____/ ___/______ _____/
  /__\1b[1;97m _\\ / ' \ _ \
